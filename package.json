@@ -1,6 +1,6 @@
 {
   "name": "gh-pages-with-token",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A small utility to pass a GitHub token in Travis CI.",
   "license": "MIT",
   "repository": "wyze/gh-pages-with-token",
